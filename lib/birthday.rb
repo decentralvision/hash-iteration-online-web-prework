@@ -5,5 +5,5 @@
 # }
 
 def happy_birthday(birthday_kids)
-  birthday_kids.each {|kid, age| puts ""}
+  birthday_kids.each {|kid, age| puts "Happy Birthday #{kid}"}
 end
